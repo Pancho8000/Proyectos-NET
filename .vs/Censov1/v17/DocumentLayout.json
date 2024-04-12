@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oscar\\OneDrive\\Escritorio\\Censov1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0705B817-98D8-4947-8790-13A3A454A4A0}|Censov1\\Censov1.csproj|c:\\users\\oscar\\onedrive\\escritorio\\censov1\\censov1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0705B817-98D8-4947-8790-13A3A454A4A0}|Censov1\\Censov1.csproj|solutionrelative:censov1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0705B817-98D8-4947-8790-13A3A454A4A0}|Censov1\\Censov1.csproj|c:\\users\\oscar\\onedrive\\escritorio\\censov1\\censov1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0705B817-98D8-4947-8790-13A3A454A4A0}|Censov1\\Censov1.csproj|solutionrelative:censov1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0705B817-98D8-4947-8790-13A3A454A4A0}|Censov1\\Censov1.csproj|C:\\Users\\Oscar\\OneDrive\\Escritorio\\Censov1\\censov1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0705B817-98D8-4947-8790-13A3A454A4A0}|Censov1\\Censov1.csproj|solutionrelative:censov1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0705B817-98D8-4947-8790-13A3A454A4A0}|Censov1\\Censov1.csproj|c:\\users\\oscar\\onedrive\\escritorio\\censov1\\censov1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0705B817-98D8-4947-8790-13A3A454A4A0}|Censov1\\Censov1.csproj|solutionrelative:censov1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0705B817-98D8-4947-8790-13A3A454A4A0}|Censov1\\Censov1.csproj|C:\\Users\\Oscar\\OneDrive\\Escritorio\\Censov1\\censov1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0705B817-98D8-4947-8790-13A3A454A4A0}|Censov1\\Censov1.csproj|solutionrelative:censov1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0705B817-98D8-4947-8790-13A3A454A4A0}|Censov1\\Censov1.csproj|C:\\Users\\Oscar\\OneDrive\\Escritorio\\Censov1\\censov1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0705B817-98D8-4947-8790-13A3A454A4A0}|Censov1\\Censov1.csproj|solutionrelative:censov1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\OneDrive\\Escritorio\\Censov1\\Censov1\\Form1.cs",
+              "RelativeDocumentMoniker": "Censov1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Oscar\\OneDrive\\Escritorio\\Censov1\\Censov1\\Form1.cs",
+              "RelativeToolTip": "Censov1\\Form1.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAIAywEQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:50:23.046Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\OneDrive\\Escritorio\\Censov1\\Censov1\\Form3.cs",
+              "RelativeDocumentMoniker": "Censov1\\Form3.cs",
+              "ToolTip": "C:\\Users\\Oscar\\OneDrive\\Escritorio\\Censov1\\Censov1\\Form3.cs",
+              "RelativeToolTip": "Censov1\\Form3.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAWwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:34:41.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Oscar\\OneDrive\\Escritorio\\Censov1\\Censov1\\Form3.cs",
+              "RelativeDocumentMoniker": "Censov1\\Form3.cs",
+              "ToolTip": "C:\\Users\\Oscar\\OneDrive\\Escritorio\\Censov1\\Censov1\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Censov1\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:24:57.146Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\OneDrive\\Escritorio\\Censov1\\Censov1\\Form2.cs",
+              "RelativeDocumentMoniker": "Censov1\\Form2.cs",
+              "ToolTip": "C:\\Users\\Oscar\\OneDrive\\Escritorio\\Censov1\\Censov1\\Form2.cs",
+              "RelativeToolTip": "Censov1\\Form2.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAWwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T17:27:59.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Oscar\\OneDrive\\Escritorio\\Censov1\\Censov1\\Form2.cs",
+              "RelativeDocumentMoniker": "Censov1\\Form2.cs",
+              "ToolTip": "C:\\Users\\Oscar\\OneDrive\\Escritorio\\Censov1\\Censov1\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Censov1\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T16:37:53.69Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Oscar\\OneDrive\\Escritorio\\Censov1\\Censov1\\Form1.cs",
+              "RelativeDocumentMoniker": "Censov1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Oscar\\OneDrive\\Escritorio\\Censov1\\Censov1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Censov1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:23:10.585Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
