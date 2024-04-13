@@ -1,0 +1,35 @@
+D:\visual studio 2022\Censov1\Censov1\bin\Debug\net8.0-windows\Censov1.exe
+D:\visual studio 2022\Censov1\Censov1\bin\Debug\net8.0-windows\Censov1.deps.json
+D:\visual studio 2022\Censov1\Censov1\bin\Debug\net8.0-windows\Censov1.runtimeconfig.json
+D:\visual studio 2022\Censov1\Censov1\bin\Debug\net8.0-windows\Censov1.dll
+D:\visual studio 2022\Censov1\Censov1\bin\Debug\net8.0-windows\Censov1.pdb
+D:\visual studio 2022\Censov1\Censov1\obj\Debug\net8.0-windows\Censov1.Form1.resources
+D:\visual studio 2022\Censov1\Censov1\obj\Debug\net8.0-windows\Censov1.Properties.Resources.resources
+D:\visual studio 2022\Censov1\Censov1\obj\Debug\net8.0-windows\Censov1.csproj.GenerateResource.cache
+D:\visual studio 2022\Censov1\Censov1\obj\Debug\net8.0-windows\Censov1.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio 2022\Censov1\Censov1\obj\Debug\net8.0-windows\Censov1.AssemblyInfoInputs.cache
+D:\visual studio 2022\Censov1\Censov1\obj\Debug\net8.0-windows\Censov1.AssemblyInfo.cs
+D:\visual studio 2022\Censov1\Censov1\obj\Debug\net8.0-windows\Censov1.csproj.CoreCompileInputs.cache
+D:\visual studio 2022\Censov1\Censov1\obj\Debug\net8.0-windows\Censov1.dll
+D:\visual studio 2022\Censov1\Censov1\obj\Debug\net8.0-windows\refint\Censov1.dll
+D:\visual studio 2022\Censov1\Censov1\obj\Debug\net8.0-windows\Censov1.pdb
+D:\visual studio 2022\Censov1\Censov1\obj\Debug\net8.0-windows\Censov1.genruntimeconfig.cache
+D:\visual studio 2022\Censov1\Censov1\obj\Debug\net8.0-windows\ref\Censov1.dll
+C:\Users\Oscar\OneDrive\Escritorio\Censov1\Censov1\bin\Debug\net8.0-windows\Censov1.exe
+C:\Users\Oscar\OneDrive\Escritorio\Censov1\Censov1\bin\Debug\net8.0-windows\Censov1.deps.json
+C:\Users\Oscar\OneDrive\Escritorio\Censov1\Censov1\bin\Debug\net8.0-windows\Censov1.runtimeconfig.json
+C:\Users\Oscar\OneDrive\Escritorio\Censov1\Censov1\bin\Debug\net8.0-windows\Censov1.dll
+C:\Users\Oscar\OneDrive\Escritorio\Censov1\Censov1\bin\Debug\net8.0-windows\Censov1.pdb
+C:\Users\Oscar\OneDrive\Escritorio\Censov1\Censov1\obj\Debug\net8.0-windows\Censov1.Form1.resources
+C:\Users\Oscar\OneDrive\Escritorio\Censov1\Censov1\obj\Debug\net8.0-windows\Censov1.Properties.Resources.resources
+C:\Users\Oscar\OneDrive\Escritorio\Censov1\Censov1\obj\Debug\net8.0-windows\Censov1.csproj.GenerateResource.cache
+C:\Users\Oscar\OneDrive\Escritorio\Censov1\Censov1\obj\Debug\net8.0-windows\Censov1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar\OneDrive\Escritorio\Censov1\Censov1\obj\Debug\net8.0-windows\Censov1.AssemblyInfoInputs.cache
+C:\Users\Oscar\OneDrive\Escritorio\Censov1\Censov1\obj\Debug\net8.0-windows\Censov1.AssemblyInfo.cs
+C:\Users\Oscar\OneDrive\Escritorio\Censov1\Censov1\obj\Debug\net8.0-windows\Censov1.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\OneDrive\Escritorio\Censov1\Censov1\obj\Debug\net8.0-windows\Censov1.dll
+C:\Users\Oscar\OneDrive\Escritorio\Censov1\Censov1\obj\Debug\net8.0-windows\refint\Censov1.dll
+C:\Users\Oscar\OneDrive\Escritorio\Censov1\Censov1\obj\Debug\net8.0-windows\Censov1.pdb
+C:\Users\Oscar\OneDrive\Escritorio\Censov1\Censov1\obj\Debug\net8.0-windows\Censov1.genruntimeconfig.cache
+C:\Users\Oscar\OneDrive\Escritorio\Censov1\Censov1\obj\Debug\net8.0-windows\ref\Censov1.dll
+C:\Users\Oscar\OneDrive\Escritorio\Censov1\Censov1\obj\Debug\net8.0-windows\Censov1.pestaña2.resources
